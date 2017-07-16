@@ -6,8 +6,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    TextView aaldlmlknm;
-    EditText lohjaofdlkj;
+    TextView yuvraj;
+    EditText createdanotherbranchforcommiting;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
